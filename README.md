@@ -3,4 +3,3 @@
 
 2.Neural network
 
-3.BIA660: predicting stock price of United America
